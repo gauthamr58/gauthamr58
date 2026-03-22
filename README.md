@@ -1,4 +1,4 @@
-<img src="banner.webp" width="100%" height="400px" />
+<img src="banner.webp" width="100%" height="350px" />
 ## Hi there 👋
 
 <!--
